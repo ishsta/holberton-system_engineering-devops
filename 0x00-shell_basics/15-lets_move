@@ -1,4 +1,5 @@
 #!/bin/bash
-mv [[:upper:]] /tmp/u
+mv src/*[A-Z]* /tmp/u
+
 
 
