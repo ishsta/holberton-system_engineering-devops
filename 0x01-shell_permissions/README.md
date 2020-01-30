@@ -1,0 +1,1 @@
+These Scripts teach me permission changing.
